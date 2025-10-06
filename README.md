@@ -27,7 +27,7 @@ Find out the salary boost associated with each skill; for example, Spark correla
 | Software Engineer          | 99,150       | 79,200  | 99,150    | 5.5        |
 
 ## 💡 How to Use  
-Open the file (files/Excel Analysis.xlsx) in Excel or Google Sheets.
+Open the file [Excel Analysis.xlsx](https://github.com/user-attachments/files/22718412/Excel.Analysis.xlsx) in Excel or Google Sheets.
 
 Explore each tab—Skill Demand, Skills per Job, Salary Analysis, and more.
 
